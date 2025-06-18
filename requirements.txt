@@ -1,0 +1,17 @@
+# Resume Parsing
+pdfminer.six
+
+# NLP & Skill Extraction
+spacy
+pandas
+numpy
+
+# Job Matching Models
+scikit-learn
+sentence-transformers
+
+# Web App UI
+streamlit
+
+# Optional Utilities
+python-dotenv
